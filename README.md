@@ -1,7 +1,7 @@
 # Expense Tracker
 Expense Tracker is a simple .NET console application for tracking expenses. The app stores data in expenses.json and supports commands to add, update, delete, list, clear, and summarize expenses. It can run in non-interactive (command-line) mode and interactive mode (when started without arguments). The app supports cancellation via Ctrl+C.
 
-Inspired by: https://roadmap.sh/projects/expense-tracker
+Inspired by:https://roadmap.sh/projects/expense-tracker
 
 ## Features
 - `Add — add a new expense`
